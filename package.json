@@ -4,8 +4,8 @@
   "description": "A chat application uses NodeJS, ExpressJS and Socket.io",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./course_dave_gray/03_express_activity",
-    "start": "node ./course_dave_gray/03_express_activity"
+    "dev": "nodemon ./chat_app/index.js",
+    "start": "node ./chat_app/index.js"
   },
   "keywords": [],
   "author": "luricisme",
